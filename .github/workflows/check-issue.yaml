@@ -28,5 +28,3 @@ jobs:
         comment: |
           Issue reproduction steps and expected result can't be null, please follow the issue template
           Auto-closing this issue.
-
-
